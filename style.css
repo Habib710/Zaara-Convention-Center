@@ -1,0 +1,74 @@
+/* ..............button style all css value .......................*/
+
+.btn-custom {
+    background-color: rgb(255, 255, 255);
+    padding: 5px 15px;
+    border-radius: 5px;
+    border: 2px solid rgb(250, 250, 250);
+}
+
+.btn-custom-2 {
+    background-color: #3685fd;
+    border: 2px solid hsl(216, 100%, 56%);
+
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.btn-custom-2:hover {
+    background-color: white;
+    transition: .6s;
+
+}
+
+.btn-custom-2:hover a {
+    color: black;
+}
+
+.btn-custom-2 a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.btn-custom a {
+    color: hsl(216, 100%, 56%);
+    font-weight: 700;
+
+}
+
+.btn-custom-card {
+    background-color: rgb(248, 248, 248);
+
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 5px 25px;
+}
+
+/* ...........................font-google........................ */
+.font-google {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* ..............some background color ..........................*/
+.card-style {
+    background-color: #3685fd;
+    border-radius: 25px;
+}
+
+.nav-1 {
+    color: hsl(216, 98%, 60%);
+    font-size: 20px;
+}
+
+.toast-style {
+    border-left: 12px solid #3685fd;
+    font-weight: 700;
+
+}
+
+.toast-style a {
+    text-decoration: none;
+    font: 700;
+    color: black;
+}
